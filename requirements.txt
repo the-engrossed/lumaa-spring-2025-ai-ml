@@ -1,0 +1,9 @@
+### dependency
+numpy
+pandas
+sklearn
+streamlit
+pickle
+
+### local packages -
+-e . 
